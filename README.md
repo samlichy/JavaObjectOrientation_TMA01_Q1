@@ -19,11 +19,11 @@ I was then introduced to a subset of the Java collection classes, and related is
 The last part of the module began by investigating how data is written to and from files in Java and how objects can be made persistent by writing them to file. Both of these techniques were useful in larger scale programs.
 
 Course work included:
-5 Interactive computer-marked assignments (iCMAs)
-3 Tutor-marked assignments (TMAs - 50%)
-- TMA01: 10%
-- TMA02: 40%
-- TMA03: 50%
-1 Examination (50%)
+- 5 Interactive computer-marked assignments (iCMAs)
+- 3 Tutor-marked assignments (TMAs - 50%)
+  - TMA01: 10%
+  - TMA02: 40%
+  - TMA03: 50%
+- 1 Examination (50%)
 
 
