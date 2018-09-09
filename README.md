@@ -21,9 +21,9 @@ The last part of the module began by investigating how data is written to and fr
 Course work included:
 5 Interactive computer-marked assignments (iCMAs)
 3 Tutor-marked assignments (TMAs - 50%)
-	- TMA01 - 10%
-	- TMA02 - 40%
-	- TMA03 - 50%
+- TMA01: 10%
+- TMA02: 40%
+- TMA03: 50%
 1 Examination (50%)
 
 
